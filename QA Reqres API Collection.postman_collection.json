@@ -319,7 +319,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n  \"email\": \"eve.holt@reqres.in\",\r\n  \"password\": \"cityslicka\"\r\n}",
+							"raw": "{\r\n  \"email\": \"ree@reqres.in\",\r\n  \"password\": \"cityslicka\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
